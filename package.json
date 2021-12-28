@@ -1,0 +1,18 @@
+{
+  "name": "gitflow-documentation",
+  "version": "1.0.0",
+  "description": "Documentación sobre Gitflow",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "Crisanto López de la Cruz",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {
+    "vitepress": "^0.20.10"
+  }
+}
