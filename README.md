@@ -6,7 +6,7 @@
 ## Features
   
 #### Crear feature branch a partir de develop:
-    ```bash
+    ```
     git checkout -b feature/MYFEATURE develop
     ```
 
